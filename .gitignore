@@ -1,0 +1,20 @@
+# Build-Ergebnisse
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Icon-Zwischenprodukte (aus assets/icon-source.png reproduzierbar)
+assets/icon.iconset/
+
+# macOS
+.DS_Store
+
+# Editoren
+.vscode/
+.idea/
